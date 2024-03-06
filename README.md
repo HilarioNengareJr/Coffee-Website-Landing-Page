@@ -1,0 +1,1 @@
+Fully responsive coffee lover website made with Javascript, HTML and CSS.
